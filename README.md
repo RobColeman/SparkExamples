@@ -1,2 +1,2 @@
 # sparkExamples
-Some simple, useful examples in Scala Spark
+Some examles of ETL, statistics, and ML in spark
