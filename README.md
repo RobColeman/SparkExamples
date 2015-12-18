@@ -1,2 +1,2 @@
 # sparkExamples
-Some examles of ETL, statistics, and ML in spark
+Some random examles of ETL, statistics, and ML in spark
